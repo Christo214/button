@@ -1,0 +1,106 @@
+*{
+	background-color:lightgreen;
+	font-size:20px;
+	margin:50px;
+}
+h1{
+	color:#ff3456;
+	text-decoration-line:underline;
+}
+.btn_primary 
+{
+	background-color:blue;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_primary:hover
+{
+	background-color:orange;
+	transition:0.5s;
+}
+.btn_secondary 
+{
+	background-color:gray;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_secondary:hover
+{
+	background-color:yellow;
+	transition:0.5s;
+}
+.btn_success 
+{
+	background-color:orange;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_success:hover
+{
+	background-color:lightblue;
+	transition:0.5s;
+}
+.btn_danger 
+{
+	background-color:red;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_danger:hover
+{
+	background-color:green;
+	transition:0.5s;
+}
+.btn_warning 
+{
+	background-color:yellow;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_warning:hover
+{
+	background-color:blue;
+	transition:0.5s;
+}
+.btn_info
+{
+	background-color:skyblue;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_info:hover
+{
+	background-color:violet;
+	transition:0.5s;
+}
+.btn_light 
+{
+	background-color:transparent;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_light:hover
+{
+	background-color:red;
+	transition:0.5s;
+}
+.btn_dark 
+{
+	background-color:black;
+	color:white;
+	border:none;
+	padding:8px;
+	border-radius:5px;
+}
+.btn_dark:hover
+{
+	background-color:pink;
+	transition:0.5s;
+}
